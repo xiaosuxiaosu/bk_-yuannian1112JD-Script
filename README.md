@@ -44,4 +44,4 @@ ql repo https://ghproxy.com/https://github.com/yuannian1112/jd_scripts.git "jd_|
 [回到顶部](#readme)
 
 
-ql repo https://ghproxy.com/https://github.com/yuannian1112/jd_scripts.git "jd_|jx_|getJDcookie" "activity|backUp" "^jd[^_]|USER|utils"
+ql repo https://github.com/xiaosuxiaosu/bk_-yuannian1112JD-Script.git "jd_|jx_|getJDcookie" "activity|backUp" "^jd[^_]|USER|utils"
