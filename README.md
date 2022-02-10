@@ -20,7 +20,7 @@
     pip3 install requests
     执行：
     python3 jd_getFollowGift.py
-
+ql repo https://ghproxy.com/https://github.com/yuannian1112/jd_scripts.git "jd_|jx_|getJDcookie" "activity|backUp" "^jd[^_]|USER|utils"
 
 ## `【更新记录】`
     2021.6.6：（v1.0.0 Beta）
@@ -42,3 +42,6 @@
 
 # End.
 [回到顶部](#readme)
+
+
+ql repo https://ghproxy.com/https://github.com/yuannian1112/jd_scripts.git "jd_|jx_|getJDcookie" "activity|backUp" "^jd[^_]|USER|utils"
